@@ -26,25 +26,29 @@ const styles = StyleSheet.create({
     button:{
       margin: 10,
       padding: 10,
-      borderWidth: 2, 
+/*       borderWidth: 2, 
+      borderColor: '#8c8c8c', */
       borderRadius: 10,
+      
       alignSelf: 'stretch',
       backgroundColor: 'rgba(255,255,255, .8)',
+
     },
     buttonRow: {
       flexDirection: 'row',
       alignItems: 'center',
     },
     buttonText: {
-      textAlign: 'center',
-      fontSize: 30,
+      /* textAlign: 'center', */
+      fontSize: 22,
+      color: '#333333'
     },
   
     sample: {
       height: 20,
       width: 20,
       margin: 5,
-      borderRadius: 10,
+      borderRadius: 5,
       backgroundColor: 'white',
     }
   });
