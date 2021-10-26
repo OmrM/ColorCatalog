@@ -8,6 +8,7 @@ The purpose of this project was to learn foundations of React Native. The logic 
 * Extracting and importing custom components
 * Collecting user Input from a form
 * Creating Custom Hooks
-* Using AsyncStorage to persists data in an app
+* Using AsyncStorage to persist data in an app
 * Creating Stylesheets
 * Flexbox layouts
+* Using a flat list
