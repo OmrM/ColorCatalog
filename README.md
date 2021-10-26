@@ -3,7 +3,7 @@ I made this simple react native app while following along with the Learning Reac
 ## Project Demo
 ![Alt Text](https://github.com/OmrM/ColorCatalog/blob/master/ColorDemo.gif)
 ## Purpose and Practical Use
-The purpose of this project was to learn foundations of React Native. The logic in this application could be repurposed to create custom themes/color palletes for an app or website. 
+The purpose of this project was to learn foundations of React Native. The logic in this application could be repurposed to create custom themes/color palettes for an app or website. 
 ## Learning Objectives
 * Extracting and importing custom components
 * Collecting user Input from a form
